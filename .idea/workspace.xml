@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="649d95e7-804d-4935-8714-2ad51f3561d9" name="Changes" comment="Tarea 3 - SEMANA 3">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-ORIENTADA-A-OBJETOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-TRADICIONAL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="RACUEVA &lt;159343547+racueva@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hfZw3eTJov2t81KNQHpLCmcY9s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.EJEMPLO-DE-ABSTRACCION.PY.executor": "Run",
+    "Python.EJEMPLO-DE-HERENCIA.executor": "Run",
+    "Python.EJEMPLO-DE-POLIMORFISMO.executor": "Run",
+    "Python.EJMEPLO-DE-ENCAPSULACION.executor": "Run",
+    "Python.PROGRAMACION-ORIENTADA-A-OBJETOS.executor": "Run",
+    "Python.PROGRAMACION-TRADICIONAL.executor": "Run",
+    "Python.tarea.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.PROGRAMACION-ORIENTADA-A-OBJETOS">
+    <configuration name="PROGRAMACION-ORIENTADA-A-OBJETOS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-ORIENTADA-A-OBJETOS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PROGRAMACION-TRADICIONAL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-TRADICIONAL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tarea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tarea.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PROGRAMACION-ORIENTADA-A-OBJETOS" />
+        <item itemvalue="Python.PROGRAMACION-TRADICIONAL" />
+        <item itemvalue="Python.tarea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="649d95e7-804d-4935-8714-2ad51f3561d9" name="Changes" comment="" />
+      <created>1717987327301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717987327301</updated>
+      <workItem from="1717987328666" duration="2099000" />
+      <workItem from="1717995667314" duration="146000" />
+      <workItem from="1718226839235" duration="748000" />
+      <workItem from="1718593351420" duration="1834000" />
+    </task>
+    <task id="LOCAL-00001" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1717994740607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717994740607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tarea 2">
+      <option name="closed" value="true" />
+      <created>1717995320484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717995320484</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tarea 2">
+      <option name="closed" value="true" />
+      <created>1717995369445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717995369445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tarea 2">
+      <option name="closed" value="true" />
+      <created>1717995717065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717995717065</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tarea 2">
+      <option name="closed" value="true" />
+      <created>1717995735137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717995735137</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tarea 2">
+      <option name="closed" value="true" />
+      <created>1717995746765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717995746765</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tarea 3 - SEMANA 3">
+      <option name="closed" value="true" />
+      <created>1718595036760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718595036760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="tarea 2" />
+    <MESSAGE value="Tarea 3 - SEMANA 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 3 - SEMANA 3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_ABSTRACCION_PY.coverage" NAME="EJEMPLO-DE-ABSTRACCION.PY Coverage Results" MODIFIED="1717994411455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$PROGRAMACION_TRADICIONAL.coverage" NAME="PROGRAMACION-TRADICIONAL Coverage Results" MODIFIED="1718594404607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$tarea.coverage" NAME="tarea Coverage Results" MODIFIED="1718594154393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$PROGRAMACION_ORIENTADA_A_OBJETOS.coverage" NAME="PROGRAMACION-ORIENTADA-A-OBJETOS Coverage Results" MODIFIED="1718594648714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_HERENCIA.coverage" NAME="EJEMPLO-DE-HERENCIA Coverage Results" MODIFIED="1717994572149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJMEPLO_DE_ENCAPSULACION.coverage" NAME="EJMEPLO-DE-ENCAPSULACION Coverage Results" MODIFIED="1717994494524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_POLIMORFISMO.coverage" NAME="EJEMPLO-DE-POLIMORFISMO Coverage Results" MODIFIED="1717994623551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+  </component>
+</project>
