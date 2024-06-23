@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649d95e7-804d-4935-8714-2ad51f3561d9" name="Changes" comment="Tarea 3 - SEMANA 3">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-ORIENTADA-A-OBJETOS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-TRADICIONAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="649d95e7-804d-4935-8714-2ad51f3561d9" name="Changes" comment="Semana 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,27 +40,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.EJEMPLO-DE-ABSTRACCION.PY.executor": "Run",
-    "Python.EJEMPLO-DE-HERENCIA.executor": "Run",
-    "Python.EJEMPLO-DE-POLIMORFISMO.executor": "Run",
-    "Python.EJMEPLO-DE-ENCAPSULACION.executor": "Run",
-    "Python.PROGRAMACION-ORIENTADA-A-OBJETOS.executor": "Run",
-    "Python.PROGRAMACION-TRADICIONAL.executor": "Run",
-    "Python.tarea.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Rebasing main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EJEMPLO-DE-ABSTRACCION.PY.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJEMPLO-DE-HERENCIA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJEMPLO-DE-POLIMORFISMO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJMEPLO-DE-ENCAPSULACION.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjemplosMundoReal_POO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PROGRAMACION-ORIENTADA-A-OBJETOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PROGRAMACION-TRADICIONAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tarea.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.PROGRAMACION-ORIENTADA-A-OBJETOS">
+}</component>
+  <component name="RunManager" selected="Python.EjemplosMundoReal_POO">
+    <configuration name="EjemplosMundoReal_POO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EjemplosMundoReal_POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EjemplosMundoReal_POO/EjemplosMundoReal_POO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PROGRAMACION-ORIENTADA-A-OBJETOS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
       <option name="ENV_FILES" value="" />
@@ -136,6 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EjemplosMundoReal_POO" />
         <item itemvalue="Python.PROGRAMACION-ORIENTADA-A-OBJETOS" />
         <item itemvalue="Python.PROGRAMACION-TRADICIONAL" />
         <item itemvalue="Python.tarea" />
@@ -160,7 +181,9 @@
       <workItem from="1717987328666" duration="2099000" />
       <workItem from="1717995667314" duration="146000" />
       <workItem from="1718226839235" duration="748000" />
-      <workItem from="1718593351420" duration="1834000" />
+      <workItem from="1718593351420" duration="2256000" />
+      <workItem from="1719125907188" duration="1493000" />
+      <workItem from="1719358826548" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="README.md">
       <option name="closed" value="true" />
@@ -218,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718595036760</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Semana 3">
+      <option name="closed" value="true" />
+      <created>1718595512595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718595512595</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Semana 4">
+      <option name="closed" value="true" />
+      <created>1719127327725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719127327725</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,9 +277,12 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="README.md" />
-    <MESSAGE value="tarea 2" />
     <MESSAGE value="Tarea 3 - SEMANA 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 3 - SEMANA 3" />
+    <MESSAGE value="Semana 3 - Tarea 3" />
+    <MESSAGE value="tarea 2" />
+    <MESSAGE value="Semana 3" />
+    <MESSAGE value="Semana 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_ABSTRACCION_PY.coverage" NAME="EJEMPLO-DE-ABSTRACCION.PY Coverage Results" MODIFIED="1717994411455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
@@ -250,5 +292,6 @@
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_HERENCIA.coverage" NAME="EJEMPLO-DE-HERENCIA Coverage Results" MODIFIED="1717994572149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJMEPLO_DE_ENCAPSULACION.coverage" NAME="EJMEPLO-DE-ENCAPSULACION Coverage Results" MODIFIED="1717994494524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_POLIMORFISMO.coverage" NAME="EJEMPLO-DE-POLIMORFISMO Coverage Results" MODIFIED="1717994623551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1719127278154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosMundoReal_POO" />
   </component>
 </project>
