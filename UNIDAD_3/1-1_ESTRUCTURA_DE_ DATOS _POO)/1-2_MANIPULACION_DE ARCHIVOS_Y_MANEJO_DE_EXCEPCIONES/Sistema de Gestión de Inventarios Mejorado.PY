@@ -133,7 +133,7 @@ class AdministrarTienda:
     def menu_principal(self):
         while True:
             # Menú principal para las operaciones de la tienda
-            print("\n--- MOVIMIENTOS DE TIENDA ---")
+            print("\n--- MOVIMIENTOS DE MICROMERCADO XYZ ---")
             print("1. Añadir producto")
             print("2. Buscar producto")
             print("3. Eliminar producto")
@@ -150,7 +150,7 @@ class AdministrarTienda:
             elif opcion == "4":
                 self.mostrar_todos_los_productos()
             elif opcion == "5":
-                print("Saliendo... gracias por peferir nuestro sistema 💖🎈😍")
+                print("Saliendo... gracias por peferirnos")
                 break
             else:
                 print("Opción no válida. Inténtalo de nuevo.")
