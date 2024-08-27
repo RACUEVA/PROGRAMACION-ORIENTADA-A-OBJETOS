@@ -41,30 +41,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.APLICACION_DE_CONCEPTOS.executor": "Run",
-    "Python.Constructor_y_desctructor.executor": "Run",
-    "Python.EJEMPLO-DE-ABSTRACCION.PY.executor": "Run",
-    "Python.EJEMPLO-DE-HERENCIA.executor": "Run",
-    "Python.EJEMPLO-DE-POLIMORFISMO.executor": "Run",
-    "Python.EJMEPLO-DE-ENCAPSULACION.executor": "Run",
-    "Python.EjemplosMundoReal_POO.executor": "Run",
-    "Python.PROGRAMACION-ORIENTADA-A-OBJETOS.executor": "Run",
-    "Python.PROGRAMACION-TRADICIONAL.executor": "Run",
-    "Python.calcular_area_rectangulo.executor": "Run",
-    "Python.tarea.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.APLICACION_DE_CONCEPTOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor_y_desctructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJEMPLO-DE-ABSTRACCION.PY.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJEMPLO-DE-HERENCIA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJEMPLO-DE-POLIMORFISMO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJMEPLO-DE-ENCAPSULACION.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjemplosMundoReal_POO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PROGRAMACION-ORIENTADA-A-OBJETOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PROGRAMACION-TRADICIONAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcular_area_rectangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tarea.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Constructor_y_desctructor">
     <configuration name="APLICACION_DE_CONCEPTOS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />

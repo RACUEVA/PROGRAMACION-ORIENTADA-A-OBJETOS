@@ -1,0 +1,14 @@
+[
+    {
+        "id_producto": "1",
+        "nombre": "agua",
+        "cantidad": 200,
+        "precio": 1.0
+    },
+    {
+        "id_producto": "2",
+        "nombre": "sporade",
+        "cantidad": 299,
+        "precio": 20.0
+    }
+]
