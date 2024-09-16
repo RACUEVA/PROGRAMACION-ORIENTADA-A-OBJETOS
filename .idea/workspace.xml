@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649d95e7-804d-4935-8714-2ad51f3561d9" name="Changes" comment="Semana 6">
-      <change afterPath="$PROJECT_DIR$/CONSTRUCTOR_Y_DESTRUCTOR/Constructor_y_desctructor.py" afterDir="false" />
+    <list default="true" id="649d95e7-804d-4935-8714-2ad51f3561d9" name="Changes" comment="Semana 12">
+      <change afterPath="$PROJECT_DIR$/UNIDAD_3/INTERFACES GRAFICAS/INTERFAZ GRAFICA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIDAD 3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RACUEVA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RACUEVA/PROGRAMACION-ORIENTADA-A-OBJETOS.git&quot;,
+    &quot;accountId&quot;: &quot;57258139-b8b6-496e-b9a5-1ed400bc646e&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,8 +63,11 @@
     &quot;Python.EJEMPLO-DE-POLIMORFISMO.executor&quot;: &quot;Run&quot;,
     &quot;Python.EJMEPLO-DE-ENCAPSULACION.executor&quot;: &quot;Run&quot;,
     &quot;Python.EjemplosMundoReal_POO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GESTION DE BIBLIOTECA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.INTERFAZ GRAFICA.executor&quot;: &quot;Run&quot;,
     &quot;Python.PROGRAMACION-ORIENTADA-A-OBJETOS.executor&quot;: &quot;Run&quot;,
     &quot;Python.PROGRAMACION-TRADICIONAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biblioteca.executor&quot;: &quot;Run&quot;,
     &quot;Python.calcular_area_rectangulo.executor&quot;: &quot;Run&quot;,
     &quot;Python.tarea.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -62,56 +78,11 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Constructor_y_desctructor">
-    <configuration name="APLICACION_DE_CONCEPTOS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APLICACION_DE_CONCEPTOS_DE_POO" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APLICACION_DE_CONCEPTOS_DE_POO/APLICACION_DE_CONCEPTOS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Constructor_y_desctructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CONSTRUCTOR_Y_DESTRUCTOR" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CONSTRUCTOR_Y_DESTRUCTOR/Constructor_y_desctructor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.INTERFAZ GRAFICA">
     <configuration name="EjemplosMundoReal_POO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
       <option name="ENV_FILES" value="" />
@@ -135,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PROGRAMACION-ORIENTADA-A-OBJETOS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GESTION DE BIBLIOTECA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,12 +115,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD_3/UTILIZACION DE COLECCIONES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO/PROGRAMACION-ORIENTADA-A-OBJETOS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD_3/UTILIZACION DE COLECCIONES/GESTION DE BIBLIOTECA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="INTERFAZ GRAFICA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD_3/INTERFACES GRAFICAS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD_3/INTERFACES GRAFICAS/INTERFAZ GRAFICA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="biblioteca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PROGRAMACION-ORIENTADA-A-OBJETOS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD_3/UTILIZACION DE COLECCIONES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD_3/UTILIZACION DE COLECCIONES/biblioteca.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,18 +200,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Constructor_y_desctructor" />
-        <item itemvalue="Python.APLICACION_DE_CONCEPTOS" />
+        <item itemvalue="Python.INTERFAZ GRAFICA" />
+        <item itemvalue="Python.biblioteca" />
+        <item itemvalue="Python.GESTION DE BIBLIOTECA" />
         <item itemvalue="Python.calcular_area_rectangulo" />
         <item itemvalue="Python.EjemplosMundoReal_POO" />
-        <item itemvalue="Python.PROGRAMACION-ORIENTADA-A-OBJETOS" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
       </set>
     </attachedChunks>
   </component>
@@ -215,6 +233,10 @@
       <workItem from="1719805403853" duration="567000" />
       <workItem from="1720316763771" duration="1376000" />
       <workItem from="1720876590779" duration="5678000" />
+      <workItem from="1725849270384" duration="390000" />
+      <workItem from="1725849695324" duration="2475000" />
+      <workItem from="1726204914127" duration="163000" />
+      <workItem from="1726461840929" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="README.md">
       <option name="closed" value="true" />
@@ -304,7 +326,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720318013211</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Semana 12">
+      <option name="closed" value="true" />
+      <created>1725852167988</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725852167988</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Semana 12">
+      <option name="closed" value="true" />
+      <created>1725852299373</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725852299373</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,19 +369,22 @@
     <MESSAGE value="Semana 4" />
     <MESSAGE value="Semana 5" />
     <MESSAGE value="Semana 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 6" />
+    <MESSAGE value="Semana 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 12" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Constructor_y_desctructor.coverage" NAME="Constructor_y_desctructor Coverage Results" MODIFIED="1720890290487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CONSTRUCTOR_Y_DESTRUCTOR" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_ABSTRACCION_PY.coverage" NAME="EJEMPLO-DE-ABSTRACCION.PY Coverage Results" MODIFIED="1717994411455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$PROGRAMACION_TRADICIONAL.coverage" NAME="PROGRAMACION-TRADICIONAL Coverage Results" MODIFIED="1718594404607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$tarea.coverage" NAME="tarea Coverage Results" MODIFIED="1718594154393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$PROGRAMACION_ORIENTADA_A_OBJETOS.coverage" NAME="PROGRAMACION-ORIENTADA-A-OBJETOS Coverage Results" MODIFIED="1718594648714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$APLICACION_DE_CONCEPTOS.coverage" NAME="APLICACION_DE_CONCEPTOS Coverage Results" MODIFIED="1720317955331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APLICACION_DE_CONCEPTOS_DE_POO" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$calcular_area_rectangulo.coverage" NAME="calcular_area_rectangulo Coverage Results" MODIFIED="1720317022177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TIPOS_DE_DATOS_IDENTIFICADORES" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_HERENCIA.coverage" NAME="EJEMPLO-DE-HERENCIA Coverage Results" MODIFIED="1717994572149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJMEPLO_DE_ENCAPSULACION.coverage" NAME="EJMEPLO-DE-ENCAPSULACION Coverage Results" MODIFIED="1717994494524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
-    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_POLIMORFISMO.coverage" NAME="EJEMPLO-DE-POLIMORFISMO Coverage Results" MODIFIED="1717994623551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$INTERFAZ_GRAFICA.coverage" NAME="INTERFAZ GRAFICA Coverage Results" MODIFIED="1726205053488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD_3/INTERFACES GRAFICAS" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$Constructor_y_desctructor.coverage" NAME="Constructor_y_desctructor Coverage Results" MODIFIED="1725849797804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CONSTRUCTOR_Y_DESTRUCTOR" />
     <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1719805597140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosMundoReal_POO" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$APLICACION_DE_CONCEPTOS.coverage" NAME="APLICACION_DE_CONCEPTOS Coverage Results" MODIFIED="1720317955331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APLICACION_DE_CONCEPTOS_DE_POO" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_HERENCIA.coverage" NAME="EJEMPLO-DE-HERENCIA Coverage Results" MODIFIED="1717994572149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$biblioteca.coverage" NAME="biblioteca Coverage Results" MODIFIED="1725852026769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD_3/UTILIZACION DE COLECCIONES" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$calcular_area_rectangulo.coverage" NAME="calcular_area_rectangulo Coverage Results" MODIFIED="1720317022177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TIPOS_DE_DATOS_IDENTIFICADORES" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$PROGRAMACION_TRADICIONAL.coverage" NAME="PROGRAMACION-TRADICIONAL Coverage Results" MODIFIED="1718594404607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_ABSTRACCION_PY.coverage" NAME="EJEMPLO-DE-ABSTRACCION.PY Coverage Results" MODIFIED="1717994411455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$PROGRAMACION_ORIENTADA_A_OBJETOS.coverage" NAME="PROGRAMACION-ORIENTADA-A-OBJETOS Coverage Results" MODIFIED="1718594648714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/COMPARACION-DE-PROGRAMACION-TRADICIONAL-Y-POO" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$EJEMPLO_DE_POLIMORFISMO.coverage" NAME="EJEMPLO-DE-POLIMORFISMO Coverage Results" MODIFIED="1717994623551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TECNICAS-DE-ROGRAMACION" />
+    <SUITE FILE_PATH="coverage/PROGRAMACION_ORIENTADA_A_OBJETOS$tarea.coverage" NAME="tarea Coverage Results" MODIFIED="1718594154393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
